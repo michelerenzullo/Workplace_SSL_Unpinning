@@ -8,7 +8,7 @@ Workplace SSL Pinning on Android (`ARM64`) Version **365.0.0.30.112-367653625**
 
 **Install**
 
-Non-rooted devices, uninstall Workplace and Work Chat because the signature is different, install the patched Workplace app
+Non-rooted devices, uninstall Workplace and Work Chat because the signature is different, install the patched Workplace app  
 Rooted devices, just replace in /data/data/com.facebook.work/lib-compressed/libxplat_fizz_client_protocolAndroid.so
 
 **For devs**
