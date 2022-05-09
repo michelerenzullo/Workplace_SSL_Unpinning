@@ -16,7 +16,7 @@ for %%a in (%classes%) do 7za.exe a -tzip %my_path%\apks_s\toalign%nome%.apk %my
 
 del %my_path%\apks_s\toalign%nome%.apk
 
-java -Xmx1024m -jar %my_path%\apksigner.jar sign --ks %my_path%\J1b.jks --ks-pass pass:dina2015 --in %my_path%\apks_s\zipaligned%nome%.apk --out %my_path%\apks_s\signed%nome%.apk
+java -Xmx1024m -jar %my_path%\apksigner.jar sign --ks %my_path%\"your keystore".jks --ks-pass pass:"your passwd here" --in %my_path%\apks_s\zipaligned%nome%.apk --out %my_path%\apks_s\signed%nome%.apk
 
 del %my_path%\apks_s\zipaligned%nome%.apk
 del %my_path%\apks_s\signed%nome%.apk.idsig
