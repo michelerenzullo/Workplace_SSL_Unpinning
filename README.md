@@ -1,5 +1,5 @@
 # Workplace SSL Unpinning
-Workplace SSL Pinning on Android (`ARM64`) Version **365.0.0.30.112-367653625** 
+Workplace SSL Pinning on Android (`ARM64`) Version **371.0.0.20.109-376626896** 
 
 **Do you like this project? Support it by donating**
 
