@@ -1,8 +1,8 @@
 # Workplace SSL Unpinning
-Workplace SSL Pinning on Android  
-(`ARM64`) Version **372.0.0.20.107-378066467** 
-(`ARM`) Version **372.0.0.20.107-378066454**
-(`x86`) Version **372.0.0.20.107-378066472**
+Bypass Workplace SSL Pinning on Android  
+(`ARM64`) Version **372.0.0.20.107-378066467**  
+(`ARM`) Version **372.0.0.20.107-378066454**  
+(`x86`) Version **372.0.0.20.107-378066472**  
 
 **Do you like this project? Support it by donating**
 
@@ -11,8 +11,8 @@ Workplace SSL Pinning on Android
 
 **Install**
 
-Non-rooted devices, uninstall Workplace and Work Chat because the signature is different, install the patched Workplace app  
-Rooted devices, just replace the patched lib in /data/data/com.facebook.work/lib-compressed/
+- Non-rooted devices: uninstall Workplace and Work Chat because the signature is different, install the patched Workplace app   
+- Rooted devices, just replace the patched lib in /data/data/com.facebook.work/lib-compressed/
 
 **For devs** 
 
