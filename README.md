@@ -1,8 +1,8 @@
 # Workplace SSL Unpinning
 Bypass Workplace SSL Pinning on Android  
-(`ARM64`) Version **372.0.0.20.107-378066467**  
-(`ARM`) Version **372.0.0.20.107-378066454**  
-(`x86`) Version **372.0.0.20.107-378066472**  
+(`ARM64`) Version **378.0.0.18.113-387536606**  
+(`ARM`) Version **378.0.0.18.113-387536589**  
+(`x86`) Version **378.0.0.18.113-387536613**  
 
 **Do you like this project? Support it by donating**
 
